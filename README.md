@@ -1,4 +1,4 @@
-## URL Shortner Project Requirement
+## URL Shortner Project
 
 ## Phase I
 
